@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" preserveAspectRatio="none">
+  <defs>
+    <pattern id="rule" x="0" y="0" width="200" height="8" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="200" y2="0" stroke="currentColor" stroke-width="1" stroke-opacity="0.06"></line>
+    </pattern>
+  </defs>
+  <rect width="200" height="200" fill="url(#rule)"></rect>
+</svg>

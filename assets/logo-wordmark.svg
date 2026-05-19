@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" fill="none">
+  <g stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M8 22 L56 22 L50 42 L14 42 Z"></path>
+    <path d="M32 42 L32 52"></path>
+    <path d="M22 56 L42 56"></path>
+    <path d="M32 8 L32 18"></path>
+    <path d="M36 11 C 36 9.5, 34.5 9, 32 9 C 29.5 9, 28 10, 28 11.5 C 28 13, 29.5 13.5, 32 14 C 34.5 14.5, 36 15, 36 16.5 C 36 18, 34.5 19, 32 19 C 29.5 19, 28 18.5, 28 17"></path>
+  </g>
+  <text x="76" y="28" font-family="&#39;Instrument Serif&#39;, Georgia, serif" font-size="22" fill="currentColor">A Dollar of</text>
+  <text x="76" y="52" font-family="&#39;Instrument Serif&#39;, Georgia, serif" font-size="22" font-style="italic" fill="currentColor">Discipline.</text>
+</svg>
